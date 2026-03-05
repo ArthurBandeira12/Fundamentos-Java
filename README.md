@@ -20,7 +20,7 @@ Consolidar conhecimentos em:
 
 ## 🔮 Próximos passos
 
-Com a evolução dos estudos, este repositório também passará a incluir:
+Com a evolução dos estudos, criarei outro repositório focado nos topicos abaixo:
 
 - 🔹 Projetos utilizando Spring Boot
 - 🔹 APIs REST
